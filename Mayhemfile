@@ -1,0 +1,5 @@
+project: jacob-clemente/ks265codec
+target: appdecoder
+
+cmds:
+  - cmd: /appdecoder -b @@ -o out
